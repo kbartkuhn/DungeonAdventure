@@ -1,12 +1,11 @@
 import java.util.Scanner;
 
 public class Player {
-	String Username;
-	int numberofplayers;
+	String Usernames;
 	int health = 100;
 
-	public Player(int numberofplayers) {
-		this.numberofplayers = numberofplayers;
+	public Player(String Username) {
+		this.Usernames= Username;
 	}
 
 }
