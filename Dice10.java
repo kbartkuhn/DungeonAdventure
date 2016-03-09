@@ -14,8 +14,6 @@ public class Dice10 {
 			result = r.nextInt(10); 
 			result++;
 
-			System.out.println("you rolled a "+ result);
-
 		}
 	}
 

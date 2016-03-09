@@ -14,8 +14,6 @@ public class Dice12 {
 			result = r.nextInt(12); //gives a result between 0 and 5
 			result++;
 
-			System.out.println("you rolled a "+ result);
-
 		}
 	}
 
