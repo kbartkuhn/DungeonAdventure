@@ -14,7 +14,7 @@ public class dice4 {
 			result = r.nextInt(4); 
 			result++;
 
-			System.out.println("you rolled a "+ result);
+		
 
 		}
 
