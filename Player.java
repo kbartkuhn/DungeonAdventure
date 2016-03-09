@@ -9,14 +9,4 @@ public class Player {
 		this.numberofplayers = numberofplayers;
 	}
 
-	public void getPLayers() {
-		if (numberofplayers == 1) {
-			System.out.println("Enter Username");
-		} else {
-			System.out.println("Enter Usernames");
-		}
-		
-
-	}
-
 }
