@@ -2,8 +2,9 @@
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		
+
 		Scanner input = new Scanner(System.in);
 		
 		System.out.println("Hello, welcome to FalloutDice.");
@@ -15,6 +16,7 @@ public class Main {
 		player.getPLayers();
 				
 		
+
 		dice4 dice4 = new dice4();
 		Dice6 Dice6 = new Dice6();
 		Dice8 Dice8 = new Dice8();
