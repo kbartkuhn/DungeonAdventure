@@ -11,8 +11,6 @@ public class Dice8 {
 		for (int i = 0; i < 1; i++) {
 			result = r.nextInt(8); // gives a result between 0 and 5
 			result++;
-
 		}
 	}
-
 }
